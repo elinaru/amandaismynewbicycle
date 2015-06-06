@@ -4,6 +4,7 @@ var PHRASES = [
   'picked you up at the airport',
   'told me to tell you hello',
   'thinks you are cute',
-  'bookmarked your website'
+  'bookmarked your website',
+  'hates that typeface'
 
 ];
